@@ -5,15 +5,23 @@ import hashlib
 import json
 import urllib.parse
 from datetime import datetime, timedelta
-import sys 
+import sys
 
-# ---------------- CONFIGURATION ---------------- #
-API_KEY = ""
-API_SECRET = ""
+# 1. Import these two modules to handle environment variables
+import os
+from dotenv import load_dotenv
+
+# 2. Tell Python to find and load the .env file
+load_dotenv()
+
+# ================== CONFIGURATION ================== #
+# 3. Fetch the keys safely from the hidden environment
+API_KEY = os.getenv("API_KEY")
+API_SECRET = os.getenv("API_SECRET")
 BASE_URL = "https://api.india.delta.exchange" 
 
 # TRADING SETTINGS
-TARGET_TIME = "23:34"       # HH:MM (24-hour format)
+TARGET_TIME = "22:09"       # HH:MM (24-hour format)
 TARGET_PREMIUM = 30.0       # Minimum Premium to accept
 SL_MULTIPLIER = 4.0         # SL = Entry x 4
 TAKE_PROFIT_PRICE = 1.0     
