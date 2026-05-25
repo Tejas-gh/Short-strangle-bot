@@ -1,0 +1,22 @@
+--- Monte Carlo Drawdown DEPTH Analysis ---
+Historical Max Drawdown:           -9.00
+Median Simulated Max Drawdown:     -8.18
+95% Confidence Worst Drawdown:     -14.00
+Absolute Worst Simulated Drawdown: -30.35
+
+--- Monte Carlo Drawdown DURATION Analysis (Days/Trades) ---
+Historical Max DD Duration:        48
+Median Simulated Max DD Duration:  37
+95% Confidence Longest Duration:   83
+Absolute Longest Simulated DD:     268
+
+--- Monte Carlo STREAK Analysis (Days/Trades) ---
+Historical Max Winning Streak:     16
+Median Simulated Max Win Streak:   12
+95% Confidence Longest Win Streak: 18
+Absolute Longest Sim. Win Streak:  39
+-
+Historical Max Losing Streak:      6
+Median Simulated Max Loss Streak:  5
+95% Confidence Longest Loss Streak:8
+Absolute Longest Sim. Loss Streak: 17
