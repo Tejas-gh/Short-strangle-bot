@@ -60,9 +60,24 @@ To deploy this bot yourself, you will need:
 - Define the cron expression for 12:30 AM on Wed, Thu, Sat, Sun.
 - Set the target as your specific EC2 instance, using the StartInstances API.
 
+## 📊 Live Execution vs. Backtest Variance
+
+To validate the statistical edge found in the Parkinson Volatility profiling, this strategy was forward-tested in a live environment using a real-money account on Delta Exchange.
+
+* **Target Daily Risk:** 1.00%
+* **Live Monthly PnL:** ~+6.00%
+* **Observed Slippage:** Up to 20% on stop-loss market orders during high-volatility spikes. 
+
+**Proof of Execution:**
+To verify the system's live performance and AWS automation, please review the following artifacts in the `Live execution results` folder:
+1. [View live trade log](<Live execution results/march 2026/delta_exchange_live_trades_mar_2026.csv>): A complete ledger of live entries and exits.
+2. [View cleaned live trade log](<Live execution results/march 2026/cleaned_delta_exchange_live_trades_mar_2026.csv>): Cleaned PNL
+
+
+
 ## ⚠️ Challenges & Limitations
 
-While this strategy has proven profitable in live testing (yielding ~6% per month on a Rs. 10,000 capital base at 1% risk per day), it has strict operational and market constraints. Anyone looking to deploy this should be aware of the following:
+While this strategy has proven profitable in live testing (yielding ~6% per month on a small capital base at 1% risk per day), it has strict operational and market constraints. Anyone looking to deploy this should be aware of the following:
 
 1. **Execution Slippage on Stop-Losses**
    - **Take-Profits (TP):** Experience zero slippage because they are submitted as resting limit orders.
