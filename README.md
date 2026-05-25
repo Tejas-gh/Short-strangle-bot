@@ -60,6 +60,21 @@ To deploy this bot yourself, you will need:
 - Define the cron expression for 12:30 AM on Wed, Thu, Sat, Sun.
 - Set the target as your specific EC2 instance, using the StartInstances API.
 
+## ⚠️ Challenges & Limitations
+
+While this strategy has proven profitable in live testing (yielding ~6% per month on a Rs. 10,000 capital base at 1% risk per day), it has strict operational and market constraints. Anyone looking to deploy this should be aware of the following:
+
+1. **Execution Slippage on Stop-Losses**
+   - **Take-Profits (TP):** Experience zero slippage because they are submitted as resting limit orders.
+   - **Stop-Losses (SL):** Are triggered as market orders to ensure an exit. During sudden market spikes, live testing has shown slippage of up to 20% on the SL execution. For example, a hard stop placed at 120 may realistically fill at 144 as it sweeps the available liquidity.
+
+2. **Capital Scaling Constraints**
+   - This strategy thrives on small capital. Crypto options order books (especially for specific OTM strikes) often have thin liquidity.
+   - As capital and position sizes increase, the edge degrades. Larger market orders will sweep deeper into the order book on entries and SL exits, creating prohibitive slippage that eventually neutralizes the strategy's alpha.
+
+3. **Blind Time-Based Execution**
+   - The bot executes purely based on the clock (12:30 AM). It does not dynamically scan the macroeconomic calendar or parse real-time news. If an unexpected, high-impact market event occurs exactly at this time, the bot will still execute its trades blindly into a high-volatility environment.
+
 ## ⚠️ Disclaimer
 
 This software is for educational and research purposes only. Trading futures and options involves substantial risk of loss and is not suitable for all investors. Past performance of this quantitative logic is not indicative of future results. Use this bot at your own risk.
