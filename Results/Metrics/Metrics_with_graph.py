@@ -128,7 +128,7 @@ def plot_performance_dashboard(df):
 # Execution Block
 if __name__ == "__main__":
     # Load data
-    data_path = r"Trading/Strategies/Short_strangle/backtest/Data/Backtest_2025-01-01_to_2026-01-31.xlsx"
+    data_path = r"Strategies Github/Short Strangle/Backtest/after fees/after_fees_Backtest_2025-01-01_to_2026-01-31.xlsx"
     
     try:
         df = pd.read_excel(data_path) 

@@ -20,7 +20,7 @@ def optimize_trading_days(file_path):
     df['Month'] = df['Date'].dt.to_period('M')
 
     # 3. Define Win/Loss
-    df['Result'] = np.where(df['Total PnL'] > 0, 'Win', 'Loss')
+    df['Result'] = np.where(df['net pnl'] > 0, 'Win', 'Loss')
 
     all_days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
     # Mapping days to numbers to maintain chronological sorting
@@ -90,8 +90,8 @@ def optimize_trading_days(file_path):
     return results_df
 
 # --- Execution and Export ---
-input_file = ''
-output_file = ''
+input_file = r'Strategies Github/Short Strangle/Backtest/after fees/after_fees_Backtest_2025-01-01_to_2026-01-31.xlsx'
+output_file = r'Strategies Github/Short Strangle/Results/Optimisation results/after fees/after_fees_optimized.xlsx'
 
 # Run the optimization
 optimization_results = optimize_trading_days(input_file)

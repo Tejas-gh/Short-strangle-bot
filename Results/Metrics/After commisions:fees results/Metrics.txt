@@ -1,0 +1,19 @@
+--- Backtest Metrics ---
+Sharpe Ratio: 3.68
+Max Drawdown (Absolute): -11.04
+Average Drawdown Duration (Days): 8.49
+Max Drawdown Period (Days): 78
+Average Monthly PnL: 6.23
+Trade Count: 396
+Total Wins: 259
+Total Losses: 137
+Win Rate (%): 65.4
+Max Win: 0.97
+Max Loss: -3.21
+Avg Win: 0.95
+Avg Loss (Absolute): 1.2
+Avg Win / Avg Loss Ratio: 0.79
+EV per Day: 0.2
+EV per Month: 6.23
+Max Win Streak: 16
+Max Loss Streak: 6

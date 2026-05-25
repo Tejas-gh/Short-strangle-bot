@@ -47,8 +47,8 @@ def group_and_sort_by_winrate(input_file, output_file):
 
 # --- Execution ---
 # Replace 'optimization_results.xlsx' with the name of your current file
-input_filename = r""
-output_filename = r""
+input_filename = r"Strategies Github/Short Strangle/Results/Optimisation results/after fees/after_fees_optimized.xlsx"
+output_filename = r"Strategies Github/Short Strangle/Results/Optimisation results/after fees/group_sorted.xlsx"
 
 grouped_results = group_and_sort_by_winrate(input_filename, output_filename)
 

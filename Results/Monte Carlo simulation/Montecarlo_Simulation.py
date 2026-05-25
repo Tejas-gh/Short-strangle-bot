@@ -73,5 +73,5 @@ def run_monte_carlo_with_plot(file_path, iterations=1000):
     plt.show()
 
 # Execute the function
-data_path = r"path"
+data_path = r"Strategies Github/Short Strangle/Backtest/after fees/after_fees_Backtest_2025-01-01_to_2026-01-31.xlsx"
 run_monte_carlo_with_plot(data_path, iterations=1000)
