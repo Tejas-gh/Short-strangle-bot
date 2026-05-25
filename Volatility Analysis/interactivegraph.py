@@ -66,10 +66,11 @@ def plot_all_days_volatility_interactive(csv_file):
     # 8. Save and Show
     # This generates a standalone HTML file you can open in any browser
     output_path = "volatility_profile.html"
-    fig.write_html(output_path)
+    fig.write_html(output_path, include_plotlyjs="cdn")
+
     print(f"Interactive plot saved to: {output_path}")
     fig.show()
 
 # --- Execution ---
-filepath = "Volatility Analysis/btc_1hour.csv"
+filepath = "Strategies Github/Short Strangle/Volatility Analysis/btc_1hour.csv"
 plot_all_days_volatility_interactive(filepath)
