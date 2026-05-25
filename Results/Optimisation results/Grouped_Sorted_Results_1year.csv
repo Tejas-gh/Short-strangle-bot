@@ -1,0 +1,128 @@
+﻿Included Days,Days Traded per Week,Total Trades,Overall Win Rate (%),WR Bracket,Monthly Mean WR (%),Monthly Std Dev (%)
+Saturday,1,57,84.21,80-85%,84.62,19.63
+"Thursday, Saturday",2,114,78.07,75-80%,78.87,14.8
+"Thursday, Saturday, Sunday",3,170,75.29,75-80%,75.77,16.45
+"Wednesday, Thursday, Saturday",3,171,76.02,75-80%,76.6,18.02
+"Saturday, Sunday",2,113,76.99,75-80%,77.07,21.8
+"Wednesday, Saturday",2,114,78.07,75-80%,78.42,23.24
+"Wednesday, Saturday, Sunday",3,170,75.29,75-80%,75.21,23.36
+"Thursday, Friday, Saturday",3,171,71.35,70-75%,71.46,8.74
+"Thursday, Friday, Saturday, Sunday",4,227,70.93,70-75%,71.16,10.79
+"Wednesday, Thursday, Friday, Saturday",4,228,71.49,70-75%,71.77,11.94
+"Monday, Thursday, Saturday",3,170,70.59,70-75%,70.84,12.4
+"Friday, Saturday",2,114,71.05,70-75%,70.75,12.61
+"Wednesday, Thursday, Friday, Saturday, Sunday",5,284,71.13,70-75%,71.34,13.6
+"Friday, Saturday, Sunday",3,170,70.59,70-75%,70.62,13.69
+"Monday, Thursday, Saturday, Sunday",4,226,70.35,70-75%,70.51,13.95
+"Tuesday, Thursday, Saturday",3,170,71.76,70-75%,71.93,14.51
+"Wednesday, Friday, Saturday",3,171,71.35,70-75%,71.49,14.53
+"Monday, Wednesday, Thursday, Saturday",4,227,70.93,70-75%,71.13,14.74
+"Tuesday, Wednesday, Thursday, Saturday",4,227,71.81,70-75%,71.91,15.41
+"Tuesday, Thursday, Saturday, Sunday",4,226,71.24,70-75%,71.48,15.57
+"Monday, Wednesday, Thursday, Saturday, Sunday",5,283,70.67,70-75%,70.74,16.06
+"Wednesday, Friday, Saturday, Sunday",4,227,70.93,70-75%,70.99,16.16
+"Thursday, Sunday",2,113,70.8,70-75%,71.15,16.53
+"Tuesday, Wednesday, Thursday, Saturday, Sunday",5,283,71.38,70-75%,71.47,16.74
+"Monday, Wednesday, Saturday",3,170,70.59,70-75%,70.53,17.53
+"Tuesday, Saturday",2,113,71.68,70-75%,71.58,17.72
+"Tuesday, Wednesday, Saturday",3,170,71.76,70-75%,71.64,17.92
+Thursday,1,57,71.93,70-75%,72.31,18.1
+"Tuesday, Saturday, Sunday",3,169,71.01,70-75%,71.07,18.79
+"Wednesday, Thursday, Saturday, Sunday",4,227,74.45,70-75%,74.72,18.82
+"Monday, Wednesday, Saturday, Sunday",4,226,70.35,70-75%,70.12,18.95
+"Wednesday, Thursday",2,114,71.93,70-75%,72.26,19.22
+"Wednesday, Thursday, Sunday",3,170,71.18,70-75%,71.22,19.51
+"Tuesday, Wednesday, Saturday, Sunday",4,226,71.24,70-75%,71.11,19.51
+"Wednesday, Sunday",2,113,70.8,70-75%,70.19,26.82
+Wednesday,1,57,71.93,70-75%,71.92,29.55
+"Monday, Thursday, Friday, Saturday",4,227,67.4,65-70%,67.6,8.07
+"Monday, Tuesday, Thursday, Friday, Saturday",5,283,65.72,65-70%,65.85,8.79
+"Thursday, Friday, Sunday",3,170,66.47,65-70%,66.59,9.11
+"Monday, Thursday, Friday, Saturday, Sunday",5,283,67.84,65-70%,68.05,9.75
+"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",6,340,66.76,65-70%,66.87,9.83
+"Monday, Tuesday, Thursday, Friday, Saturday, Sunday",6,339,66.37,65-70%,66.55,10.08
+"Monday, Friday, Saturday",3,170,65.88,65-70%,65.98,10.17
+"Monday, Wednesday, Thursday, Friday, Saturday",5,284,68.31,65-70%,68.54,10.36
+"Tuesday, Thursday, Friday, Saturday",4,227,68.28,65-70%,68.33,10.38
+"Monday, Tuesday, Wednesday, Friday, Saturday",5,283,65.72,65-70%,65.79,10.79
+"Wednesday, Thursday, Friday",3,171,67.25,65-70%,67.33,10.88
+"Monday, Wednesday, Thursday, Friday, Sunday",5,283,65.37,65-70%,65.47,11.04
+"Tuesday, Wednesday, Thursday, Friday, Saturday",5,284,69.01,65-70%,69.11,11.31
+"Tuesday, Wednesday, Thursday, Friday",4,227,65.2,65-70%,65.01,11.34
+"Monday, Tuesday, Friday, Saturday, Sunday",5,282,65.25,65-70%,65.39,11.42
+"Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",7,396,67.17,65-70%,67.28,11.46
+"Tuesday, Thursday, Friday, Saturday, Sunday",5,283,68.55,65-70%,68.75,11.47
+"Monday, Friday, Saturday, Sunday",4,226,66.81,65-70%,66.9,11.67
+"Monday, Wednesday, Friday, Saturday",4,227,67.4,65-70%,67.57,12.01
+"Monday, Tuesday, Thursday, Saturday",4,226,67.7,65-70%,67.74,12.04
+"Monday, Wednesday, Thursday, Friday, Saturday, Sunday",6,340,68.53,65-70%,68.69,12.06
+"Tuesday, Wednesday, Thursday, Friday, Sunday",5,283,66.08,65-70%,66.06,12.57
+"Monday, Tuesday, Wednesday, Friday, Saturday, Sunday",6,339,66.37,65-70%,66.41,12.72
+"Wednesday, Thursday, Friday, Sunday",4,227,67.84,65-70%,67.94,12.78
+"Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",6,340,69.12,65-70%,69.25,12.87
+"Tuesday, Wednesday, Friday, Saturday",4,227,68.28,65-70%,68.29,12.94
+"Tuesday, Friday, Saturday",3,170,67.06,65-70%,67,12.95
+"Monday, Tuesday, Wednesday, Thursday, Saturday",5,283,68.55,65-70%,68.55,13.1
+"Monday, Tuesday, Thursday, Saturday, Sunday",5,282,68.09,65-70%,68.17,13.35
+"Monday, Tuesday, Saturday",3,169,66.27,65-70%,66.11,13.41
+"Monday, Thursday, Sunday",3,169,65.68,65-70%,65.68,13.49
+"Tuesday, Friday, Saturday, Sunday",4,226,67.7,65-70%,67.85,13.58
+"Monday, Wednesday, Friday, Saturday, Sunday",5,283,67.84,65-70%,67.89,13.87
+"Monday, Wednesday, Thursday",3,170,66.47,65-70%,66.45,14.45
+"Monday, Tuesday, Wednesday, Saturday",4,226,67.7,65-70%,67.51,14.52
+"Monday, Tuesday, Wednesday, Thursday, Sunday",5,282,65.6,65-70%,65.38,14.58
+"Monday, Tuesday, Wednesday, Thursday, Saturday, Sunday",6,339,68.73,65-70%,68.72,14.62
+"Tuesday, Wednesday, Friday, Saturday, Sunday",5,283,68.55,65-70%,68.6,14.66
+"Monday, Saturday",2,113,69.91,65-70%,69.74,15.01
+"Monday, Tuesday, Saturday, Sunday",4,225,67.11,65-70%,67.01,15.25
+"Monday, Wednesday, Thursday, Sunday",4,226,67.26,65-70%,67.13,15.96
+"Wednesday, Friday, Sunday",3,170,66.47,65-70%,66.43,16.06
+"Tuesday, Wednesday, Thursday",3,170,67.65,65-70%,67.24,16.41
+"Monday, Tuesday, Wednesday, Saturday, Sunday",5,282,68.09,65-70%,67.88,16.46
+"Tuesday, Thursday, Sunday",3,169,66.86,65-70%,66.84,16.73
+"Monday, Saturday, Sunday",3,169,69.82,65-70%,69.61,16.98
+"Tuesday, Wednesday, Thursday, Sunday",4,226,68.14,65-70%,67.95,17.24
+"Monday, Wednesday, Sunday",3,169,65.68,65-70%,65.12,19.94
+"Tuesday, Wednesday, Sunday",3,169,66.86,65-70%,66.32,20.96
+Sunday,1,56,69.64,65-70%,69.23,27.75
+"Monday, Thursday, Friday",3,170,61.76,60-65%,61.88,7.57
+"Monday, Thursday, Friday, Sunday",4,226,63.72,60-65%,63.9,8.22
+"Monday, Wednesday, Thursday, Friday",4,227,64.32,60-65%,64.47,8.94
+"Monday, Tuesday, Wednesday, Thursday, Friday",5,283,63.25,60-65%,63.21,9.26
+"Thursday, Friday",2,114,64.91,60-65%,64.51,9.27
+"Monday, Tuesday, Thursday, Friday",4,226,61.06,60-65%,61.03,9.67
+"Monday, Tuesday, Thursday, Friday, Sunday",5,282,62.77,60-65%,62.88,9.73
+"Monday, Tuesday, Friday, Saturday",4,226,64.16,60-65%,64.27,10.03
+"Monday, Tuesday, Wednesday, Friday",4,226,61.06,60-65%,61.02,10.19
+"Monday, Wednesday, Friday",3,170,61.76,60-65%,61.97,10.67
+"Monday, Friday, Sunday",3,169,60.95,60-65%,61.12,10.68
+"Monday, Tuesday, Wednesday, Thursday, Friday, Sunday",6,339,64.31,60-65%,64.32,10.87
+"Monday, Tuesday, Friday, Sunday",4,225,60.44,60-65%,60.6,11.34
+"Tuesday, Thursday, Friday, Sunday",4,226,64.6,60-65%,64.67,11.63
+"Monday, Tuesday, Wednesday, Friday, Sunday",5,282,62.77,60-65%,62.74,12.24
+"Tuesday, Thursday, Friday",3,170,62.94,60-65%,62.57,12.83
+"Monday, Tuesday, Wednesday, Thursday",4,226,64.6,60-65%,64.28,13.16
+"Monday, Wednesday, Friday, Sunday",4,226,63.72,60-65%,63.74,13.17
+"Monday, Thursday",2,113,63.72,60-65%,63.68,13.31
+"Tuesday, Wednesday, Friday",3,170,62.94,60-65%,62.67,13.48
+"Friday, Sunday",2,113,63.72,60-65%,63.72,13.54
+"Monday, Tuesday, Thursday, Sunday",4,225,64,60-65%,63.89,13.64
+"Monday, Tuesday, Thursday",3,169,62.13,60-65%,61.76,13.94
+"Wednesday, Friday",2,114,64.91,60-65%,64.94,14.33
+"Tuesday, Friday, Sunday",3,169,62.13,60-65%,62.24,14.61
+"Monday, Tuesday, Wednesday",3,169,62.13,60-65%,61.51,14.71
+"Tuesday, Wednesday, Friday, Sunday",4,226,64.6,60-65%,64.52,14.72
+"Monday, Tuesday, Sunday",3,168,61.31,60-65%,60.96,16.17
+"Monday, Tuesday, Wednesday, Sunday",4,225,64,60-65%,63.52,16.82
+"Monday, Sunday",2,112,62.5,60-65%,61.94,18.18
+"Monday, Wednesday",2,113,63.72,60-65%,63.31,18.26
+"Tuesday, Thursday",2,113,65.49,60-65%,64.79,19.13
+"Tuesday, Wednesday",2,113,65.49,60-65%,64.51,19.99
+"Tuesday, Sunday",2,112,64.29,60-65%,64,21.84
+"Monday, Friday",2,113,56.64,55-60%,56.94,11.37
+"Monday, Tuesday, Friday",3,169,57.4,55-60%,57.47,11.76
+"Monday, Tuesday",2,112,57.14,55-60%,56.41,16.77
+"Tuesday, Friday",2,113,58.41,55-60%,57.91,18.53
+Friday,1,57,57.89,55-60%,56.54,21.35
+Tuesday,1,56,58.93,55-60%,56.92,30.04
+Monday,1,56,55.36,50-55%,54.62,19.73
