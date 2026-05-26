@@ -89,6 +89,15 @@ While this strategy has proven profitable in live testing (yielding ~6% per mont
 
 3. **Blind Time-Based Execution**
    - The bot executes purely based on the clock (12:30 AM). It does not dynamically scan the macroeconomic calendar or parse real-time news. If an unexpected, high-impact market event occurs exactly at this time, the bot will still execute its trades blindly into a high-volatility environment.
+  
+4. **The Risk: Assuming the Future Looks Like the Past**
+   - The strategy bets that weekends will always be quiet just because they have been in the past. But in financial markets, there is always a risk that historical patterns could suddenly change.
+
+   - Why It Still Makes Sense (The Defense)
+This quiet-weekend pattern isn't a random coincidence—it happens for a very concrete reason. Weekends are quiet because major global stock markets are closed. Trading activity jumps back up on Mondays and Tuesdays because large institutional investors return to their desks and start moving capital around again.
+
+   - The Crypto Factor: A 24/7 Market
+Even though the crypto market itself never sleeps and trades 24/7, it is still heavily driven by traditional finance. Because the massive institutional money tied to traditional equity markets exits on Friday nights and re-enters on Monday mornings, the crypto market still experiences this weekend slowdown.
 
 ## ⚠️ Disclaimer
 
